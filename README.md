@@ -1,2 +1,1 @@
-"https://66d87dbf983990ea85470f59--stately-choux-072f75.netlify.app"
-
+https://precious-trifle-910ec1.netlify.app
